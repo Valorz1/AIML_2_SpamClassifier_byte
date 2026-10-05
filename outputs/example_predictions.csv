@@ -1,0 +1,11 @@
+message,predicted_label,spam_probability,top_trigger_words
+URGENT! Your account has been suspended. Verify your details now at http://secure-bank-login.co to avoid closure.,SPAM,0.7193,"urltoken, urgent, account, verify"
+Congratulations! You have won a £1000 Walmart gift card. Call 09061701461 to claim your prize today!,SPAM,0.9972,"phonetoken, moneytoken, won, claim, prize"
+FREE entry to win an iPhone 17! Text WIN to 87121 now. T&Cs apply.,SPAM,0.9994,"phonetoken, win, text, numtoken, free"
+"Dear customer, you are selected for a cash reward of $500. Reply YES to claim before midnight.",SPAM,0.9724,"moneytoken, reply, claim, customer, cash"
+Limited time offer: get 50% off all subscriptions. Click here to claim your exclusive discount now!,SPAM,0.7474,"claim, numtoken, click, offer, time"
+"Hey, are we still meeting for lunch tomorrow at 1?",HAM,0.0089,numtoken
+Can you send me the notes from today's lecture when you get a chance?,HAM,0.0718,"chance, send, today"
+"Hi Parmbir, the project review meeting has moved to Thursday at 3pm. See you there.",HAM,0.0235,"numtoken, review"
+"Mum says dinner is ready, come home soon",HAM,0.0034,soon
+"Thanks for the help with the assignment yesterday, really appreciated it!",HAM,0.019,"help, thanks"
